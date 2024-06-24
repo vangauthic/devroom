@@ -1,0 +1,7 @@
+General:
+    TOKEN: "MTI1NDY0NDk3NjY0MjU2MDE0MA.GfdCIZ.vz-K70yRgQo5PE1zif7Q2o7aWUlrMsL6qrYjUg"
+    ACTIVITY: "watching" # playing, watching, listening
+    DOING_ACTIVITY: "the stock market" # what you want it to be playing, watching, listening, competing
+    STATUS: "online" # online, idle, dnd, invisible
+
+    ADMIN_GUILD_ID: 1133117508178681908
