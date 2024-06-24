@@ -1,5 +1,5 @@
 General:
-    TOKEN: "MTI1NDY0NDk3NjY0MjU2MDE0MA.GfdCIZ.vz-K70yRgQo5PE1zif7Q2o7aWUlrMsL6qrYjUg"
+    TOKEN: ""
     ACTIVITY: "watching" # playing, watching, listening
     DOING_ACTIVITY: "the stock market" # what you want it to be playing, watching, listening, competing
     STATUS: "online" # online, idle, dnd, invisible
